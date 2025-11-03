@@ -16,3 +16,43 @@ When you type `/help` or `help`, it:
 ### 💻 Example:
 ```bash
 gemini /help
+
+# 🧭 Useful Command: Ctrl + L
+
+## 🧹 What Does `Ctrl + L` Do?
+
+The **`Ctrl + L`** keyboard shortcut is used in the **command line or terminal** to:
+
+- **Clear the screen** — it removes all previous commands and outputs from view.  
+- It gives you a **clean workspace** while keeping the command history in memory (you can still scroll up to see old commands).
+
+### 💻 Example:
+If your terminal looks cluttered with too many outputs, simply press:
+
+
+# 📘 Command: /docs
+
+## 📄 What Does `/docs` Do?
+
+The **`/docs`** command is commonly used in **CLI tools** or **software documentation systems** to:
+
+- Open or display the **official documentation** related to that tool.  
+- Provide **detailed usage guides, examples, and configuration instructions.**
+
+### 💻 Example:
+```bash
+gemini /docs
+
+# 🧰 Command: /tools
+
+## ⚙️ What Does `/tools` Do?
+
+The **`/tools`** command is generally used in **CLI (Command Line Interface)** environments or **AI tools** to:
+
+- Display a list of **available tools, plugins, or features** that the system can use.  
+- Show details about what each tool does and how you can use it in your commands or prompts.
+
+### 💻 Example:
+```bash
+gemini /tools
+
