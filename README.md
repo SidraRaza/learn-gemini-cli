@@ -5,6 +5,12 @@
 
 ---
 
+# 📚 Commands Reference  
+For a full list of commands, see this document:  
+[Commands List](https://docs.google.com/document/d/17khsGL-vdl5t8Jc3Glc08yLPlw8anz8Cg1_PsamPO0E/edit?tab=t.0#heading=h.6a8ygzoj5sje)  
+
+---
+
 ## 🆘 What Does `/help` Do?
 
 The `/help` command is used to **get assistance** in any program, tool, or CLI (Command Line Interface).
